@@ -1,5 +1,6 @@
 second file
 <<<<<<< HEAD
+<<<<<<< HEAD
 xxx
 =======
 Now testing
@@ -7,3 +8,8 @@ yeeeeaaaaaah
 :kl;k;l
 
 >>>>>>> 8350486... And what now?
+=======
+Now testing 
+yeeeeaaaaaah
+:
+>>>>>>> origin/testing
